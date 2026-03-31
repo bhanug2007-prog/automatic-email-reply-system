@@ -1,0 +1,12 @@
+Metric,Count
+Original,2650.0
+Final,2252.0
+Removed,398.0
+Retention Rate (%),84.9811320754717
+length_filter,0.0
+low_quality,0.0
+spam,10.0
+high_repetition,0.0
+exact_duplicates,374.0
+near_duplicates,14.0
+low_vocabulary,0.0
